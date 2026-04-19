@@ -17,7 +17,7 @@ export default function Footer() {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://instagram.com"
+              href="https://instagram.com/joinsupremocode"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-lg border border-dark-border bg-dark-card/50 flex items-center justify-center text-light-gray hover:text-gold hover:border-gold/30 transition-colors duration-300"
@@ -28,7 +28,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://x.com"
+              href="https://x.com/joinsupremocode"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-lg border border-dark-border bg-dark-card/50 flex items-center justify-center text-light-gray hover:text-gold hover:border-gold/30 transition-colors duration-300"
