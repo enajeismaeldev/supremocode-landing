@@ -33,7 +33,7 @@ const features = [
       </svg>
     ),
     title: "Coaches Who Push You",
-    description: "Paid 1-on-1 or group sessions with coaches who've walked the path. In-person or virtual — no excuses.",
+    description: "Paid 1-on-1 or group sessions with coaches who've walked the path. In-person or virtual. No excuses.",
   },
 ];
 
@@ -48,8 +48,8 @@ export default function About() {
             What Is <span className="text-gold">SupremoCode</span>?
           </h2>
           <p className="text-light-gray text-lg max-w-2xl mx-auto leading-relaxed">
-            A brotherhood born in Boston, MA — built to pull men out of complacency and keep you locked in on your purpose. 
-            This isn't a motivational page — it's a covenant between men.
+            A brotherhood born in Boston, MA, built to pull men out of complacency and keep you locked in on your purpose. 
+            Built on action, not just inspiration. It's a covenant between men.
           </p>
         </div>
 

@@ -17,7 +17,7 @@ const principles = [
   {
     number: "IV",
     title: "Share Your Story",
-    description: "Vulnerability isn't weakness — it's the hardest kind of strength. Your story will ignite someone else's fire.",
+    description: "Vulnerability isn't weakness. It's the hardest kind of strength. Your story will ignite someone else's fire.",
   },
   {
     number: "V",

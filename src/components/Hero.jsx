@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-4xl mx-auto text-center">
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-gold/30 bg-gold/5 mb-8">
           <div className="w-2 h-2 rounded-full bg-gold animate-pulse" />
-          <span className="text-gold text-sm font-medium tracking-wide uppercase">Founding Brotherhood — Limited Spots</span>
+          <span className="text-gold text-sm font-medium tracking-wide uppercase">Founding Brotherhood | Limited Spots</span>
         </div>
 
         <h1 className="font-heading font-black text-5xl sm:text-6xl md:text-7xl lg:text-8xl leading-[0.95] tracking-tight mb-6">
